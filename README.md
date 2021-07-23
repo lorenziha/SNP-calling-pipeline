@@ -26,6 +26,9 @@ call_snps_pipeline_v9.pl -r <reference_genome> [-nosnp T/F default F][-o <oligos
   
   -A <code for reference annotation database> [RH88|GT1|ME49|Pf3D7|ATH|BESB1|other path to file]
   
+  Figure 1: SNP annotation pipeline scheme.
+  ![image](https://user-images.githubusercontent.com/76788039/126737916-d2f35899-a596-48fc-aa2e-322125a82ac7.png)
+
   
   
   
