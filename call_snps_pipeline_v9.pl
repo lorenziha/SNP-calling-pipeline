@@ -64,7 +64,7 @@ $filter = $arg{-F} if $arg{-F};
 ## Tabulated file: Gene_ID <TAB> Product_name
 ## Gene_ID should match Gene_ID in gff3 file used for snpEff
 
-## Available snpEff annotation databases
+## Available genome annotation files (accesion number <TAB> Description/Gene name)
 my %annotation = ( "RH88" => "/usr/local/devel/ANNOTATION/hlorenzi/snpEff/data/Tgondii_RH88/rh88_com_name.txt",	
 		   "GT1" => "/usr/local/projdata/700030/projects/GCID_PARASITES/KATIE_CLONES/tggt1_names.txt",
 		   "ME49" => "/usr/local/devel/ANNOTATION/hlorenzi/snpEff/data/ToxoDB-13.0_TgondiiME49/tga4_com_name",
